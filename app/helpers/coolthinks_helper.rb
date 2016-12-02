@@ -1,0 +1,2 @@
+module CoolthinksHelper
+end
